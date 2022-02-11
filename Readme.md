@@ -8,3 +8,7 @@ Jogo da velha
 ## Tabela do jogo 
 
     Tabela concluida para o jogo da velha
+
+## Função de click, para identificar vez do jogador 
+
+    Ao clicar nos quadrados da tabela, vai passando a vez pra cada jogador
